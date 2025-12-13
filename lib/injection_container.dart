@@ -100,5 +100,5 @@ Future<void> init() async {
   // ==================== LOCAL STORAGE ====================
   // NOTE: Hive boxes are already opened in main.dart
 
-  print('✅ Dependency Injection initialized');
+  print('Dependency Injection initialized');
 }
